@@ -1,2 +1,1 @@
-# samplejavaapp
-This is test Project
+Sample Java Applicaiton V3.6.2
